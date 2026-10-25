@@ -16,5 +16,9 @@ int main() {
         cout << "No se pudo abrir el archivo" << endl;
     }
 
+    ofstream salida("output/salida.txt");
+    salida << "Archivo generado por el tercer integrante" << endl;
+    salida.close();
+
     return 0;
 }
