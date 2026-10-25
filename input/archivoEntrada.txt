@@ -1,0 +1,3 @@
+Hola, este es mi laboratorio de Git.
+Estoy aprendiendo a leer archivos en C++.
+Este texto fue escrito por santiago :)).
